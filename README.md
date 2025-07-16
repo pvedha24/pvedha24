@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vedha divya sri  
-- 👀 I’m interested in  Fullstack development , DevOps, Cloud Computing, IoT, and innovative tech solutions.  
+- 👀 I’m interested in DevOps, Cloud Computing, IoT, and innovative tech solutions.  
 - 🌱 I’m currently learning IoT-based Smart Systems, Vagrant provisioning, and advanced DevOps practices.  
 - 💞️ I’m looking to collaborate on Fullstack application and cloud-based DevOps workflows.  
 - 📫 How to reach me:  [https://www.linkedin.com/in/vedhadivyasrip/].  
